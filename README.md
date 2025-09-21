@@ -37,18 +37,18 @@ This tutorial will provide instructions about "Git", "GitHub", and "WebStorm".
 - Submit to the wherever applicable - Ex. Canvas
 
 ## PART 2: Glossary
-- Branch: A separate line of development in a repository
-- Clone: A local copy of a repository downloaded from GitHub to your device
-- Commit: A saved change in Git that includes a messge describing what was done
-- Fetch: Updates your local repository with changes from the remote repository, but doesn't merge them
-- Git: A version control system that tracks changes in code and allows collaboration
-- GitHub: An online platform that keeps Git repositories and provides collaboration tools
-- Merge: Combines changes from one branch to another
-- Merge Conflict: An error that happens when Git can't automatically combine changes
-- Push: Uploads local commits from yuor device to GitHub
-- Pull: Downloads and applies the latest changes from GitHub to your local repository
-- Remote: A version of your repository hosted online
-- Repository: A storage space for your project that contans all files, history, and version information
+- **Branch:** A separate line of development in a repository
+- **Clone:** A local copy of a repository downloaded from GitHub to your device
+- **Commit:** A saved change in Git that includes a messge describing what was done
+- **Fetch:** Updates your local repository with changes from the remote repository, but doesn't merge them
+- **Git:** A version control system that tracks changes in code and allows collaboration
+- **GitHub:** An online platform that keeps Git repositories and provides collaboration tools
+- **Merge:** Combines changes from one branch to another
+- **Merge Conflict:** An error that happens when Git can't automatically combine changes
+- **Push:** Uploads local commits from yuor device to GitHub
+- **Pull:** Downloads and applies the latest changes from GitHub to your local repository
+- **Remote:** A version of your repository hosted online
+- **Repository:** A storage space for your project that contans all files, history, and version information
 
 ## REFERENCES
 - IS117 PowerPoint slides
